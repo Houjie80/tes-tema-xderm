@@ -1,0 +1,23 @@
+
+{22:43:20} v.binari saat ini 3.0
+{22:43:20} Membersihkan sisa sisa, Tunggu....
+{22:43:21} Mode yang dipilih: SSH [ssh]
+{22:43:21} Menunggu Sumber Internet... OK
+{22:43:27} Menguji bug SNI (openssl).. OK
+{22:43:27} Menjalankan Inject [stunnel]
+##############################################
+  Host: 13.251.125.224
+  Port: 443
+  User: Dongoae
+  Pass: ********
+  Port UDPgw: 7300
+##############################################
+{22:43:27} Menjalankan SSH (latarbelakang)....
+{22:43:27} Menguji Koneksi... <pre><h2 style="color:#006400" "text-overflow:ellipsis">HTTP/1.1 200 OK</h2></pre>
+{22:43:31} Memuat ulang Firewall....
+{22:43:32} Menjalankan badvpn-tun2socks....
+{22:43:34} Routing Host, IP Gateway dan dns..
+{22:43:34} Menjalankan rekonek otomatis...
+{22:43:35} Selesai.
+Starting Internet Indicator service ...
+<span style="color: yellow">[22:43:31]</span> Lampu Indicator --ON

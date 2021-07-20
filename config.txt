@@ -1,0 +1,9 @@
+host=13.251.125.224
+port=443
+pudp=7300
+user=Dongoae
+pass=mugoulih
+sni=ff.garena.com
+trojan=
+vmess=
+
